@@ -4,7 +4,7 @@
         <param name="show_debug_image" value="true"/>
 
         <param name="marker_dictonary" value="ARUCO"/>
-        <param name="marker_size" value="0.03"/>
+        <param name="marker_size" value="0.07"/>
 
         <param name="publish_tf" value="true"/>
         <param name="publish_markers" value="true"/>
